@@ -83,12 +83,12 @@ author:
   name             : "Kai Xie"
   avatar           : "profile.png"
   bio              : "Jade upon the mountain blesses the flora, pearls deep within the abyss keep the cliffs from corroding"
-  location         : "https://www.google.com/maps/place/Southwestern+University+of+Finance+and+Economics/@30.667151,104.0094324,16z/data=!4m10!1m2!2m1!1z6KW_5Y2X6LSi57uP5aSn5a2m!3m6!1s0x36efc4a37bc715cd:0xbf2b9ec39adcd054!8m2!3d30.662819!4d104.016322!15sChLopb_ljZfotKLnu4_lpKflraaSAQdjb2xsZWdl4AEA!16zL20vMGI0Z2hr"
+  location         : "Southwestern University of Finance and Economics"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "kaix@smail.swufe.edu.cn"
-  researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,12 +106,12 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #"http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
-  twitter          : "kaix0703"
+  twitter          : "https://twitter.com/kaix0703"
   vine             :
-  wechat           : "wsxk20630795"
+  weibo            : "https://twitter.com/kaix0703"
   xing             :
   youtube          :
   wikipedia        :
