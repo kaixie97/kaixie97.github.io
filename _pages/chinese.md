@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Teaching
+title: 中文
 permalink: /teaching/
 author_profile: true
 published: true
