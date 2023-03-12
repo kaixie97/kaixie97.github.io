@@ -6,7 +6,8 @@ author_profile: true
 published: true
 ---
 
-Contains publications and working papers (R&R).
+Contains publications and working papers (R&R).<br>
+* denotes corresponding author.
 
 Publications: 
 ======
@@ -30,10 +31,10 @@ Working Papers:
 ======
 (slides available upon request)
 
-***1. Digital Technology and Economic Growth**
+**1. Digital Technology and Economic Growth**
 
 数字平台助推中小企业信心加速恢复：趋势和机制<br>
-**谢凯**，陈丹，万红杰，郑思迪，张程*（西南财经大学，阿里研究院）
+_**谢凯**_，陈丹，万红杰，郑思迪，张程*（西南财经大学，阿里研究院）
 
 数字金融、创业存续与小微企业成长：来自中国家庭金融调查的证据<br>
 **谢凯**，秦芳*，路晓蒙（西南财经大学）
@@ -47,8 +48,8 @@ Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<
 如何扩大农村消费？来自农村数字基础设施建设的证据<br>
 王奇，**谢凯**，牛耕*（四川大学，西南财经大学）
 
-E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period (February to April 2020)<br>
-王剑程，**谢凯**，王泽荣*，秦芳（中山大学，西南财经大学，浙江财经大学）
+E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period<br>
+Jiancheng Wang，**Kai Xie**，Zerong Wang*，Fang Qin（SYSU, SWUFE, ZUFE）
 
 Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-Commerce Sales<br>
 张军，**谢凯**，陈文*（西南财经大学，南京农业大学）
@@ -59,7 +60,7 @@ Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from 
 电商发展如何影响消费不平等？来自微观家庭的证据<br>
 郭萌萌，徐子才，余建宇*，**谢凯**（西南财经大学）
 
-***2. Human capital's mismatch and improvement**
+**2. Human capital's mismatch and improvement**
 
 农业人力资本与种植结构调整：来自农业职业经理人的微观证据<br>
 **谢凯**，秦芳，秦志龙*（西南财经大学，北京大学）
