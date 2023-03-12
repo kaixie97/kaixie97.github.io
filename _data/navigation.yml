@@ -4,10 +4,10 @@ main:
     url: /cv/  
   
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Programs"
-    url: /portfolio/
+    url: /programs/
 
   - title: "Talks"
     url: /talks/    
@@ -16,7 +16,4 @@ main:
     url: /teaching/   
         
   - title: "中文"
-    url: /year-archive/
-    
-  - # title: "Guide"
-    # url: /markdown/
+    url: /chinese/
