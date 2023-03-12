@@ -28,24 +28,43 @@ Publications:
 
 Working Papers
 ======
-**1.    **<br>
-
+***1. Digital Technology and Economic Growth**
 
 数字平台助推中小企业信心加速恢复：趋势和机制<br>
-**谢凯**，陈丹，万红杰，郑思迪，张程*
+**谢凯**，陈丹，万红杰，郑思迪，张程*（西南财经大学，阿里研究院）
 
 数字金融、创业存续与小微企业成长：来自中国家庭金融调查的证据<br>
-**谢凯**，秦芳*，路晓蒙
+**谢凯**，秦芳*，路晓蒙（西南财经大学）
 
-**2.  **<br>
+E-Commerce Expansion, Specialty Industry and Rural Poverty Reduction<br>
+**谢凯**，秦芳，王剑程*（西南财经大学，中山大学）
+
+Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
+**谢凯**，秦芳，张荣杰*（西南财经大学，山东大学）
+
+E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period (February to April 2020)
+王剑程，**谢凯**，王泽荣*，秦芳（中山大学，西南财经大学，浙江财经大学）
+
+Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-Commerce Sales
+张军，**谢凯**，陈文*（西南财经大学，南京农业大学）
+
+
+***2. Human capital's mismatch and improvement**
 
 农业人力资本与种植结构调整：来自农业职业经理人的微观证据<br>
-**谢凯**，秦芳，秦志龙*
+**谢凯**，秦芳，秦志龙*（西南财经大学，北京大学）
 
 乡村治理人才与特色产业发展<br>
-**谢凯**，秦芳，王奇*
+**谢凯**，秦芳，王奇*（西南财经大学，四川大学）
 
-**3.  **<br>
+产业匹配需求与工程师供给缺口<br>
+黄海波，**谢凯**，秦芳*，欧阳俊（西南财经大学）
+
+基础教育资源供给、家庭教育支出与居民生育行为<br>
+梁超，王素素*，**谢凯**（山东大学，西南财经大学）
+
+***3. Infrastructure and Public Services in Rural Revitalization**
+
 交通基础设施改善与家庭旅游消费——来自“高铁县”的经验证据<br>
 **谢凯**，高云露，张荣杰*
 
