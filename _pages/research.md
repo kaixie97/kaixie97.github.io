@@ -26,8 +26,10 @@ Publications:
 秦芳，王剑程，**谢凯**<br>
 **《社会科学报》**，2022年9月08日 第2版
 
-Working Papers
+Working Papers:
 ======
+(slides available upon request)
+
 ***1. Digital Technology and Economic Growth**
 
 数字平台助推中小企业信心加速恢复：趋势和机制<br>
