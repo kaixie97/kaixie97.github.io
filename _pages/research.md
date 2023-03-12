@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-Contains publications, working papers, and working in prgress.
+Contains publications and working papers (R&R).
 
 Publications: 
 ======
@@ -42,12 +42,20 @@ E-Commerce Expansion, Specialty Industry and Rural Poverty Reduction<br>
 Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
 **谢凯**，秦芳，张荣杰*（西南财经大学，山东大学）
 
-E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period (February to April 2020)
+如何扩大农村消费？来自农村数字基础设施建设的证据<br>
+王奇，**谢凯**，牛耕*（四川大学，西南财经大学）
+
+E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period (February to April 2020)<br>
 王剑程，**谢凯**，王泽荣*，秦芳（中山大学，西南财经大学，浙江财经大学）
 
-Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-Commerce Sales
+Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-Commerce Sales<br>
 张军，**谢凯**，陈文*（西南财经大学，南京农业大学）
 
+短视频消费的崛起：新媒体使用如何促进家庭消费？<br>
+王奇，晋晓姝*，**谢凯**（四川大学，西南财经大学）
+
+电商发展如何影响消费不平等？来自微观家庭的证据<br>
+郭萌萌，徐子才，余建宇*，**谢凯**（西南财经大学）
 
 ***2. Human capital's mismatch and improvement**
 
@@ -66,28 +74,7 @@ Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from 
 ***3. Infrastructure and Public Services in Rural Revitalization**
 
 交通基础设施改善与家庭旅游消费——来自“高铁县”的经验证据<br>
-**谢凯**，高云露，张荣杰*
+**谢凯**，高云露，张荣杰*（西南财经大学，山东大学）
 
-
-
-
-
-
-
-Conference Proceeding
-======
-* 陈卓<sup>**#**</sup>,蒋霜<sup>**#**</sup>,**夏一巍**.(2021).低自我控制、生活方式暴露与诈骗被害：基于CHFS的实证研究,2021年“法大犯罪治理论文”论文集
-* 李德,熊若杉,**夏一巍**,李杰楠.(2019).澳門青少年吸食大麻現狀以及相關因素探究,2019年全国药物滥用防治协研讨会会议论文集
-* 熊若杉,李德,**夏一巍**.(2019).澳門青少年合成毒品的使用和侵犯行為,2019年全国药物滥用防治协研讨会会议论文集
-* 梁敏,**夏一巍**,李德.(2019).社区安全,集体效益与青少年被害研究.严励、越平主編：《犯罪学论坛 第五卷》,中国法治出版社,394-402页
-* 王殿玺,李德,刘子瑄,**夏一巍**,李杰楠.(2019).澳門在學青少年物質濫用與心理疾病共病性之研究,2019年全国药物滥用防治协研讨会会议论文集
-* 邬江,**夏一巍**.(2018). 云南本土与跨境外籍移民药物滥用者特征比较研究,第十五届全国药物依赖性学术会议暨国际精神疾病研讨会论文摘要汇编
-* 李德,**夏一巍**,张小华,唐伟,梁敏.(2018). 一般紧张理论在流动青少年越轨行为中的应用——多重中介效应模型究,第十四届中国青少年发展论坛
-* 梁敏,**夏一巍**,李德.(2018). 社区安全,集体效能与青少年被害研究,	第五届犯罪学论坛——2018年“国家治理体系中的犯罪治理与预防”研讨会
-* 李德,**夏一巍**,张小华,唐伟,梁敏.(2017). 歧视与越轨的多重中介关系:应用一般紧张理论解释社会压力对流动儿童的越轨行为的影响,第四届上海犯罪学论坛暨国际犯罪学学会成立80周年纪念及研讨活动
-
-
-Report
-======
-* 李德,蔡天骥,马岩,张小华,林建,唐伟,叶嘉茵,**夏一巍**, 澳门学青少年与药物：2014报告,澳门大学出版社 [链接](http://www.antidrugs.gov.mo/anti/web/cn/ downloads/2014_Report_21-5-2015.pdf)
-* 李德,熊若杉,蔡天骥,**夏一巍**,刘子瑄,王殿玺,卢思静,李杰楠.(2019).澳門在学青少年与药物调查報告2018 [链接](http://www.antidrugs.gov.mo/anti/web/cn/downloads/Report_2018_190822-001.pdf)
+社区体育设施与居民体育消费：来自微观家庭调查的证据<br>
+秦志龙，**谢凯**，毛中根*，黄道名（西南财经大学）
