@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 中文
-permalink: /teaching/
+permalink: /chinese/
 author_profile: true
 published: true
 ---
