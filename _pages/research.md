@@ -7,7 +7,7 @@ published: true
 ---
 
 Contains publications and working papers (R&R).<br>
-* denotes corresponding author.
+**\*** denotes corresponding author.
 
 Publications: 
 ======
@@ -34,16 +34,16 @@ Working Papers:
 _**1. Digital Technology and Economic Growth**_
 
 数字平台助推中小企业信心加速恢复：趋势和机制<br>
-_**谢凯**_，陈丹，万红杰，郑思迪，张程*（西南财经大学，阿里研究院）
+<u>谢凯</u>，陈丹，万红杰，郑思迪，张程*（西南财经大学，阿里研究院）
 
-数字金融、创业存续与小微企业成长：来自中国家庭金融调查的证据<br>
+数字金融、创业存续与小微企业成长——来自中国家庭金融调查的证据<br>
 **谢凯**，秦芳*，路晓蒙（西南财经大学）
 
 E-Commerce Expansion, Specialty Industry and Rural Poverty Reduction<br>
-**谢凯**，秦芳，王剑程*（西南财经大学，中山大学）
+**Kai Xie**，Fang Qin，Jiancheng Wang*（SWUFE, SYSU）
 
 Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
-**谢凯**，秦芳，张荣杰*（西南财经大学，山东大学）
+**Kai Xie**，Fang Qin，Rongjie Zhang*（SWUFE, SDU）
 
 如何扩大农村消费？来自农村数字基础设施建设的证据<br>
 王奇，**谢凯**，牛耕*（四川大学，西南财经大学）
@@ -52,7 +52,7 @@ E-commerce and the Economic Expectations of SMEs in China: Evidence from the COV
 Jiancheng Wang，**Kai Xie**，Zerong Wang*，Fang Qin（SYSU, SWUFE, ZUFE）
 
 Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-Commerce Sales<br>
-张军，**谢凯**，陈文*（西南财经大学，南京农业大学）
+Jun Zhang，**Kai Xie**，Wen Chen*（SWUFE, NAU）
 
 短视频消费的崛起：新媒体使用如何促进家庭消费？<br>
 王奇，晋晓姝*，**谢凯**（四川大学，西南财经大学）
@@ -60,9 +60,9 @@ Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from 
 电商发展如何影响消费不平等？来自微观家庭的证据<br>
 郭萌萌，徐子才，余建宇*，**谢凯**（西南财经大学）
 
-**2. Human capital's mismatch and improvement**
+_**2. Human capital's mismatch and improvement**_
 
-农业人力资本与种植结构调整：来自农业职业经理人的微观证据<br>
+农业人力资本与种植结构调整——来自农业职业经理人的微观证据<br>
 **谢凯**，秦芳，秦志龙*（西南财经大学，北京大学）
 
 乡村治理人才与特色产业发展<br>
@@ -74,7 +74,7 @@ Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from 
 基础教育资源供给、家庭教育支出与居民生育行为<br>
 梁超，王素素*，**谢凯**（山东大学，西南财经大学）
 
-***3. Infrastructure and Public Services in Rural Revitalization**
+_**3. Infrastructure and Public Services in Rural Revitalization**_
 
 交通基础设施改善与家庭旅游消费——来自“高铁县”的经验证据<br>
 **谢凯**，高云露，张荣杰*（西南财经大学，山东大学）
