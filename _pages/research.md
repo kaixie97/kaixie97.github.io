@@ -9,8 +9,8 @@ published: true
 Publications: 
 ======
 
-[电子商务发展的创业效应：来自微观家庭数据的证据](http://cmjj.ajcass.org/Magazine/Show?ID=939)
-秦芳，**谢凯**，王剑程*
+[电子商务发展的创业效应：来自微观家庭数据的证据](http://cmjj.ajcass.org/Magazine/Show?ID=939)<br>
+秦芳，**谢凯**，王剑程*<br>
 《财贸经济》,2023(3):150-164
 
 * **夏一巍**,陈卓#,蒋霜#.低自我控制、生活方式暴露与诈骗被害——基于CHFS的实证研究.犯罪研究,2022(04):40-50.
