@@ -20,7 +20,11 @@ Publications:
 
 [托举制造强国，培养更多“卓越工程师”——我国工程师人才现状研究报告](https://epaper.gmw.cn/gmrb/html/2022-12/08/nw.D110000gmrb_20221208_1-16.htm)<br>
 秦芳，**谢凯**，甘犁<br>
-**《光明日报(智库版)》**（SWUFE A），2022年12月08日 16版
+**《光明日报(智库版)》**（SWUFE A），2022年12月08日 第16版
+
+[数字经济助力农户增收](http://epaper.routeryun.com/Article/index/aid/7163431.html)<br>
+秦芳，王剑程，**谢凯**<br>
+**《社会科学报》**，2022年9月08日 第2版
 
 Working Papers
 ======
