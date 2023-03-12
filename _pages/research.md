@@ -31,7 +31,7 @@ Working Papers:
 ======
 (slides available upon request)
 
-**1. Digital Technology and Economic Growth**
+_**1. Digital Technology and Economic Growth**_
 
 数字平台助推中小企业信心加速恢复：趋势和机制<br>
 _**谢凯**_，陈丹，万红杰，郑思迪，张程*（西南财经大学，阿里研究院）
