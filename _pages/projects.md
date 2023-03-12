@@ -1,16 +1,35 @@
 ---
 layout: archive
-title: Programs
-permalink: /programs/
+title: Projects
+permalink: /projects/
 author_profile: true
 published: true
 ---
 
-Contains publications and working papers (R&R).<br>
+Contains projects commissioned by government departments and companies.<br>
 **\*** denotes corresponding author.
 
-Publications: 
+Government departments' projects（横向课题）
 ======
+_**National Natural Science Foundation of China（国家自然科学基金委员会）**_
+
+Young Scientists Fund（青年科学基金项目）<br>
+"A Study of the Impact and Mechanisms of Digitalisation on Income Distribution: An Empirical Analysis Based on Household Microdata" (Grant No.72103213), 2021.<br>
+Project leader: [Han Li](https://sib.swufe.edu.cn/info/1016/4141.htm)<br>
+<u>Research Assistant</u>
+
+Young Scientists Fund（青年科学基金项目）<br>
+"A Study on the Characteristics and Mechanisms of Income and Wealth Mobility of China's Affluent Classes: Estimation and Empirical Testing of a Stochastic Dynamic Model Based on Heterogeneous Households" (Grant No.71903156), 2020.<br>
+Project leader: [Han Li](https://sib.swufe.edu.cn/info/1016/4141.htm)<br>
+<u>Research Assistant</u>
+
+Special Project（专项项目）<br>
+"Impact and countermeasures of significant public health emergencies on SMEs" (Grant No.72103213), 2020.<br>
+Project leader: [Han Li](https://sib.swufe.edu.cn/info/1016/4141.htm)<br>
+<u>Research Assistant</u>
+
+
+
 [电子商务发展的创业效应：来自微观家庭数据的证据](http://cmjj.ajcass.org/Magazine/Show?ID=939)<br>
 秦芳，**谢凯**，王剑程*<br>
 **《财贸经济》**（SWUFE A），2023年第3期
