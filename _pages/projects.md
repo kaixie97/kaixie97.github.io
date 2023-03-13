@@ -9,7 +9,7 @@ published: true
 Contains projects commissioned by government departments and companies.<br>
 **\*** denotes corresponding author.
 
-Government departments' projects (横向课题)
+Government departments' projects (纵向课题)
 ======
 _**National Natural Science Foundation of China (国家自然科学基金委员会)**_
 
@@ -34,6 +34,25 @@ Project leader: [Qi Wang](https://bs.scu.edu.cn/kuaijixue/202201/7758.html)<br>
 Youth Fund Project of Humanities and Social Sciences (人文社会科学青年基金项目), **Research Assistant**<br>
 "A Study of the Impact and Mechanisms of Digitalisation on Income Distribution: An Empirical Analysis Based on Household Microdata" (Grant No.21YJC790112), 2021.<br>
 Project leader: [Jiancheng Wang](https://isbf.sysu.edu.cn/zh-hans/teacher/288)<br>
+
+_**China Association for Science and Technology (中国科协)**_
+
+Project of National Academy of Innovation Strategy (创新战略研究院项目), **Main Member**<br>
+"Study on the Development of Engineer Talents in China", 2021.<br>
+Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/jgsz/ldjjxhjycjzywyh__.htm)<br>
+
+_**Department of Education in Sichuan Province of China (四川省教育厅)**_
+
+Project of the Student Information and Career Guidance Center for Higher Education (高校学生信息咨询与就业指导中心项目), **Main Member**<br>
+"Analysis Report on Employment Feedback Enrolment of Higher Education Institutions in Sichuan Province (2020-2022)", 2022.<br>
+Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/jgsz/ldjjxhjycjzywyh__.htm)<br>
+
+_**Southwestern University of Finance and Economics (西南财经大学)**_
+
+PhD Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Project leader**<br>
+"A study of the Entrepreneurial Effects of E-commerce Development: A Household-based Micro Perspective", 2022.<br>
+
+
 
 
 
