@@ -55,13 +55,14 @@ PhD Project of the Fundamental Research Funds for the Central Universities (中�
 
 Companies' projects (横向课题)
 ======
-_**AliResearch (阿里巴巴研究院)**_
+_**AliResearch (阿里巴巴集团研究院)**_
 
 **Internship Fellow**, SMEs Research Center, 2022.12-2023.06
 **Visiting Researcher**, New Country Research Center, 2022-2025
 
 "[Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era](https://www.alibabagroup.com/document-1491556231800684544)", 2022.<br>
 **Key Contributors**
+Download ([English](https://kaixie97.github.io/files/example.pdf) / [Chinese]())
 
 "A Study of Business Performance Indicators for SMEs on Digital Economy Platforms", 2020.<br>
 **Main Member**
