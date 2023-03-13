@@ -53,6 +53,20 @@ PhD Project of the Fundamental Research Funds for the Central Universities (中�
 "A study of the Entrepreneurial Effects of E-commerce Development: A Household-based Micro Perspective", 2022.<br>
 
 
+Companies' projects (横向课题)
+======
+_**AliResearch (阿里巴巴研究院)**_
+
+Young Scientists Fund Project (青年科学基金项目), **Research Assistant**<br>
+"A Study of the Impact and Mechanisms of Digitalisation on Income Distribution: An Empirical Analysis Based on Household Microdata" (Grant No.72103213), 2022.<br>
+Project leader: [Jiancheng Wang](https://isbf.sysu.edu.cn/zh-hans/teacher/288)<br>
+
+
+
+
+
+
+
 
 
 
