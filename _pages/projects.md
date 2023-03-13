@@ -7,7 +7,6 @@ published: true
 ---
 
 Contains projects commissioned by government departments and companies.<br>
-**\*** denotes corresponding author.
 
 Government departments' projects (纵向课题)
 ======
@@ -52,17 +51,16 @@ _**Southwestern University of Finance and Economics (西南财经大学)**_
 PhD Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Project leader**<br>
 "A study of the Entrepreneurial Effects of E-commerce Development: A Household-based Micro Perspective", 2022.<br>
 
-
 Companies' projects (横向课题)
 ======
-_**AliResearch (阿里巴巴集团研究院)**_
+_**AliResearch (阿里巴巴研究院)**_
 
-**Internship Fellow**, SMEs Research Center, 2022.12-2023.06
-**Visiting Researcher**, New Country Research Center, 2022-2025
+**Internship Fellow**, SMEs Research Center, 2022.12-2023.06<br>
+**Visiting Researcher**, New Country Research Center, 2022-2025<br>
 
 "[Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era](https://www.alibabagroup.com/document-1491556231800684544)", 2022.<br>
-**Key Contributors**
-Download ([English](https://kaixie97.github.io/files/example.pdf) / [Chinese]())
+**Key Contributors**<br>
+Download ([English](https://kaixie97.github.io/files/Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era.pdf) / [Chinese](https://kaixie97.github.io/files/全球中小微企业在疫情后时代的挑战、应对与转型.pdf))
 
 "A Study of Business Performance Indicators for SMEs on Digital Economy Platforms", 2020.<br>
 **Main Member**
@@ -70,7 +68,13 @@ Download ([English](https://kaixie97.github.io/files/example.pdf) / [Chinese]())
 "[Study on the Development of SMEs in the Context of the Digital Economy](http://www.aliresearch.com/ch/information/informationdetails?articleCode=69745667475640320&type=%E6%8A%A5%E5%91%8A)", 2019.<br>
 **Main Member**
 
+_**Tencent Research Institute (腾讯研究院)**_
 
+**Research Assistant**, 2021.03-2022.03<br>
+
+"Construction and Effectiveness of Counties' Digital Ecology", 2022.<br>
+**Key Contributors**<br>
+Related materials ([巫溪＋腾讯！](https://mp.weixin.qq.com/s?__biz=MzA4MzA0MTA4NA==&mid=2658465014&idx=3&sn=10f92b14fd2f83b98a36cd91522e8f3f&chksm=847cdaa5b30b53b3987bffe2ef5fbef65cb254234100b254d70337e2e97dbd5575c39bf0de91&scene=27))
 
 
 
