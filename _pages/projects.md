@@ -74,7 +74,7 @@ _**Tencent Research Institute (腾讯研究院)**_
 
 "Construction and Effectiveness of Counties' Digital Ecology", 2022.<br>
 **Key Contributors**<br>
-Related materials ([巫溪＋腾讯！](https://mp.weixin.qq.com/s?__biz=MzA4MzA0MTA4NA==&mid=2658465014&idx=3&sn=10f92b14fd2f83b98a36cd91522e8f3f&chksm=847cdaa5b30b53b3987bffe2ef5fbef65cb254234100b254d70337e2e97dbd5575c39bf0de91&scene=27))
+Related materials ([Wuxi County](http://www.cq.chinanews.com.cn/news/2022/0111/21-6086.html) (重庆巫溪县), [Youyang County](https://www.cqcb.com/yunongpengyouquan/xiaokanggushi/2023-03-07/5192981_pc.html) (重庆酉阳县), [Pengshui County](https://j.eastday.com/p/162243106477014389) (重庆彭水县), [Chengkou County](http://www.cqck.gov.cn/zwxx_270/qxdt/202303/t20230306_11710459.html) (重庆城口县))
 
 
 
