@@ -6,7 +6,7 @@ author_profile: true
 published: true
 ---
 
-Contains publications and working papers (R&R).<br>
+Contains publications, books & book chapters, and working papers (R&R).<br>
 **\*** denotes corresponding author.
 
 Publications: 
@@ -26,6 +26,12 @@ Publications:
 [数字经济助力农户增收](http://epaper.routeryun.com/Article/index/aid/7163431.html)<br>
 秦芳，王剑程，**谢凯**<br>
 **《社会科学报》**，2022年9月08日 第2版
+
+Books & Book chapters: 
+======
+成渝地区双城经济圈乡村振兴发展研究（成渝地区双城经济圈高质量发展研究丛书）
+伍骏骞，秦志龙，**谢凯**<br>
+**西南财经大学出版社**，交付中
 
 Working Papers:
 ======
