@@ -1,38 +1,44 @@
 ---
 layout: archive
-title: Presentation & Talk
+title: Talks
 permalink: /talks/
 author_profile: true
 published: true
 ---
 
-Conference presentation
-======
-* **Xia Yiwei** ,Tradeoff between “Big Data” and “Small Data": A Simulation Study on the Application of Sampling Technique in Empirical 
-Legal Research, HKU Law School "Empirical Turn in Chinese Legal Research: Challenges, Strategies, and Solutions", 2023, Hong Kong
-* **夏一巍** ,The impact of lockdown on the calls for police service in China, 2022 ICSA Annual Conference, 2022,ZOOM 
-* **夏一巍** ,The impact of lockdown on the calls for police service in China, 北京师范大学珠海校区交叉学科前沿论坛, 2022,珠海,中国 
-* **夏一巍** ,“交叉感染”还是“人以群分”?——青少年网络越轨与同伴越轨的共演机制, 第八届栗林论坛, 2022,北京,中国 
-* **夏一巍** ,城乡差异、社区凝聚力与居民被害风险：基于 CLDS的实证研究, 2022年中国社会学年会犯罪社会学分会《中国社会发展新阶段与犯罪治理论坛》, 2022,厦门, 中国 
-* **Xia Yiwei**,Ma Zhihao & Wang Kangqing, General Strain Theory and Corruption among Grassroots Chinese Public
-Officials: A Mixed-method Study, The 1st ACCCJ Online Conference, 2021, ZOOM
-* **Xia Yiwei**, Mengliang Dai & Rongxu Han, The Impact of COVID-19 on the 110 Calls for Police Service in China, The 11h annual meeting of Asian Criminological Society, The 1st ACCCJ Online Conference, 2021, ZOOM
-* **夏一巍** ,一般紧张理论视野下的压力与基层公职人员腐败犯罪：多重中介效应的实证检验, 第五届中国法律实证研究年会, 2020,成都, 中国 
-* **夏一巍** & 辛晏毓,"大数据"还是"小数据"：实证法律研究的方法论困境及其解决方法, 第三届数据法学年会, 2019,南京, 中国 
-* **夏一巍**, 广义膨胀离散模型（GIDM）: 一种多峰离散分布的建模方式, 2019社会学年会《社会学定量研究前沿与交叉：案例、方法和前沿》分论坛，2019，云南,中国 
-* **Xia Yiwei** & Zhang Xiaohua, Evaluating the pre-sentence investigation report in Chinesejuvenile criminal system: A quasi-experiment Study, The 11h annual meeting of Asian Criminological Society, 2019, Cebu, Philippines 
-* **Xia Yiwei**, Cai Tianji & Li Fuming, Mapping the routine of Women trafficking:Evidence from Court, The 10h annual meeting of Asian Criminological Society, 2018, Penang, Malaysia
-* **Xia Yiwei**, Cai Tianji, Effect of judge’s gender on rape sentencing: A data mining approach to analyze judgment documents, The 9h annual meeting of Asian Criminological Society, 2017, Cairns, Australia
-* Xin Yanyu, **Xia Yiwei**, Cai Tianji, Paying money for freedom: effect of monetary compensation on traffic accident crime sentencing in China, The 9h annual meeting of Asian Criminological Society, 2017, Cairns, Australia
-* **Xia Yiwei**, Cai Tianji, Spatial clustering and temporal variation in Sentencing: an analysis of the sentencing documents of traffic offence in China, The 8th annual meeting of Asian Criminological Society, 2015, Beijing, China
-* **Xia Yiwei**, Cai Tianji, Estimating size of illicit drug users, 71th annual meeting of the American Society of Criminology, 2015, Washington, DC, USA 
-* **Xia Yiwei**, Cai Tianji, Gene and Addiction: A GxE interaction model, 71th annual meeting of the American Society of Criminology, 2015, Washington, DC, USA
-* Cai Tianji, **Xia Yiwei**, Estimating size of illicit drug users in Macau, The 7th annual meeting of Asian Criminological Society, 2014, Hong Kong.
-* **Xia Yiwei**, Cai Tianji, Xin Yanyu, Estimating size of illicit drug users: Does the effect of capture heterogeneity matter? The 6th annual meeting of Asian Criminological Society, 2014, Osaka, Japan
+Contains conference presentations and invited talks.
 
-Invited talk
+Conference presentations
 ======
-* **夏一巍**，2022-12-17，犯罪学与刑事司法实证（量化）研究中的资料选择：以漏斗效应为视角, 北京大学法学院
-* **夏一巍**，2020-12-19，如何用裁判文书做社会科学研究？, 南京大学新闻传播学院
-* **夏一巍**，2018-6-14，法学实证研究设计与论文写作, 中国检察官学院广西分院
-* **夏一巍**，2018-12-11，中国拐卖妇女儿童的映射—法院判决的依据, 西南财经大学法学院
+2020.09，第二届新结构经济学学术研讨会，西安交通大学，西安（线上）
+2020.10，第十七届中国金融学年会，首都经济贸易大学，北京（线上）
+2020.10，第六届中国经济增长与发展青年学者论坛，四川大学，成都
+2020.11，第一届新结构金融学前沿研究研讨会，中山大学，广州
+2020.11，中国世界经济学会国际金融论坛，中山大学，珠海（线上）
+2020.11, The 6th FinTech International Conference, University of Edinburgh & Shanghai University of Finance and Economics, Shanghai (Online)
+
+2021.04，第三届国家发展青年论坛，北京大学，北京（线上）
+2021.04，数字金融开放研究尖峰计划第四次研讨会，上海交通大学 & 蚂蚁集团研究院，上海（线上）
+2021.07, China International Risk Forum, Southwestern University of Finance and Economics, Chengdu
+2021.09，北京大学数字金融研究中心第六届年会，北京大学，北京（线上）
+
+
+2021，中国社会学年会“金融与民生福祉分论坛”，西南大学，重庆（线上）
+
+
+
+
+2021，第四届微观经济数据与经济学理论创新论坛，内蒙古大学，呼和浩特
+2021，中国工业经济学会学术年会，兰州大学，兰州（线上）
+2021，中国青年经济学家联谊会YES年会，兰州交通大学（线上）
+2021，第七届香樟经济学年会，中山大学（珠海）
+2021，第五届中国劳动经济学者论坛年会，四川大学，成都
+2021，第十届数量经济学国际研讨会，吉林大学，长春（线上）
+
+
+
+
+
+Invited talks
+======
+
