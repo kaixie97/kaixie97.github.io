@@ -6,13 +6,6 @@ author_profile: true
 published: true
 ---
 
-* 秋季 Fall：
-  * 西南财经大学 SWUFE 法学院 School of law “犯罪学理论与发展 Criminological theory and development” 法学博士 
-  * 西南财经大学 SWUFE 法学院 School of law “犯罪学导论 Introduction to Criminology” 法学硕士
-  * 西南财经大学 SWUFE 法学院 School of law “文献检索和文献综述 Literature search and review” 法学硕士,法律硕士
-  * 西南财经大学 SWUFE 法学院 School of law “法学实证研究 Empirical Legal Study” 法学硕士,法律硕士
-  * 西南财经大学 SWUFE 法学院 School of law “统计学 Statistics” 法学/会计双学位本科
-* 春季 Spring：
-  * 西南财经大学 SWUFE 法学院 School of law “刑事侦查与法医学 Criminal investigation and forensic science” 法学/会计双学位本科,法学/金融双学位本科,法学本科
-  * 西南财经大学 SWUFE 法学院 School of law “统计方法与法学研究 Statistical method and legal study” 法学硕士
-  * 西南财经大学 SWUFE 法学院 School of law “统计学 Statistics” 法学/金融双学位本科
+欢迎访问我的主页！我是[西南财经大学](https://www.swufe.edu.cn/)[经济与管理研究院(RIEM)](https://riem.swufe.edu.cn/)和[中国家庭金融调查与研究中心](https://chfs.swufe.edu.cn/)(CHFS)的二年级经济学博士生。在此之前，我在[河南大学经济学院](http://jjxy.henu.edu.cn/)获得经济学学士学位。
+
+我的研究兴趣涵盖数字经济学、发展经济学、劳动经济学和公共经济学。目前的研究主要集中在三个方面。第一，数字革命对家庭和企业部门的效率和福利影响，特别是数字技术的包容性。其次，人力资本的错配和改善对经济活动的影响，以及产业政策和教育政策在其中发挥的作用。最后，扶贫攻坚和乡村振兴等中国农村发展战略中，基础设施建设和大规模转移支付等的效果评估。
