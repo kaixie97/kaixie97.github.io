@@ -56,7 +56,7 @@ Companies' projects (横向课题)
 _**AliResearch (阿里巴巴研究院)**_
 
 **Internship Fellow**, SMEs Research Center, 2022.12-2023.06<br>
-**Visiting Researcher**, New Country Research Center, 2022-2025<br>
+**Visiting Researcher**, New Country Research Center, 2022-2025
 
 "[Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era](https://www.alibabagroup.com/document-1491556231800684544)", 2022.<br>
 **Key Contributors**<br>
@@ -79,9 +79,9 @@ _**China Finance 40 Forum, CF40 (中国金融四十人论坛)**_
 "[China Smart Finance Development Index Report](http://www.cf40.com/news_detail/12087.html)", 2020.<br>
 **Key Contributors**
 
-_**China Finance 40 Forum, CF40 (21世纪金融研究院)**_
+_**21st Century Institute of Finance (21世纪金融研究院)**_
 
-"[China Smart Finance Development Index Report](http://www.cf40.com/news_detail/12087.html)", 2020.<br>
+"[Asian Banking & Insurance Development Report 2021](http://www.21jingji.com/zhuanti/topic/2021_yzjrnh/)", 2021.<br>
 **Key Contributors**
 
 Other projects
@@ -99,10 +99,3 @@ _**Camphor Economic Academic Circle (香樟经济学术圈)**_
 2022-02-21, [【香樟推文2402】城市更名真的能促进经济增长吗？不同模型下的一个比较](https://mp.weixin.qq.com/s/zkYXbIDX2-7AEV-qthNk7Q)<br>
 2022-08-08, [【香樟推文2568】退退退！电子商务会挤出线下零售吗？](https://mp.weixin.qq.com/s/aRdRLTbvBc7r882vbqVrUw)<br>
 2022-11-18, [【香樟推文2668】“薪资保障计划（PPP）”的得与失](https://mp.weixin.qq.com/s/of5MFrIxpiRooWkaLt14SQ)
-
-
-
-
-
-
-
