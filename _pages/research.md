@@ -15,10 +15,6 @@ Publications:
 黄海波，**谢凯**，秦芳*，欧阳俊<br>
 **《经济理论与经济管理》**，2023年第6期
 
-[数字平台助推中小企业信心加速恢复：趋势和机制](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UDrL-YceOCIulxFoR5-cuTv4Vkd-dCYxIyF81ezJlt7M&uniplatform=NZKPT)<br>
-**谢凯**，陈丹，张程，万红杰，郑思迪<br>
-**《中国市场监管研究》**，2023年第3期
-
 [电子商务发展的创业效应：来自微观家庭数据的证据](http://cmjj.ajcass.org/Magazine/Show?ID=939)<br>
 秦芳，**谢凯**，王剑程*<br>
 **《财贸经济》**，2023年第3期
@@ -26,6 +22,11 @@ Publications:
 [市场可达性与农村家庭消费——来自“快递下乡”工程的证据](http://crecrs-zgncjj.ajcass.org/Magazine/Show/84492)<br>
 王奇，**谢凯**，秦芳*，牛耕<br>
 **《中国农村经济》**，2022年第12期
+
+
+[数字平台助推中小企业信心加速恢复：趋势和机制](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UDrL-YceOCIulxFoR5-cuTv4Vkd-dCYxIyF81ezJlt7M&uniplatform=NZKPT)<br>
+**谢凯**，陈丹，张程，万红杰，郑思迪<br>
+**《中国市场监管研究》**，2023年第3期
 
 [托举制造强国，培养更多“卓越工程师”——我国工程师人才现状研究报告](https://epaper.gmw.cn/gmrb/html/2022-12/08/nw.D110000gmrb_20221208_1-16.htm)<br>
 秦芳，**谢凯**，甘犁<br>
