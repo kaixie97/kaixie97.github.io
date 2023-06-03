@@ -49,7 +49,10 @@ Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/jgsz/ldjjxhjycjzywyh__.h
 _**Southwestern University of Finance and Economics (西南财经大学)**_
 
 PhD Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Project leader**<br>
-"A study of the Entrepreneurial Effects of E-commerce Development: A Household-based Micro Perspective", 2022.<br>
+"Research on the Supply and Demand Structure and Gap of Engineers in the Context of Manufacturing Power"（Grant No.JBK2307088）, 2023.<br>
+
+PhD Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Project leader**<br>
+"A study of the Entrepreneurial Effects of E-commerce Development: A Household-based Micro Perspective"（Grant No.JBK2207034）, 2022.<br>
 
 Companies' projects (横向课题)
 ======
