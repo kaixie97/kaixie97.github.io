@@ -9,7 +9,7 @@ published: true
 Contains publications, books & book chapters, and working papers (R&R).<br>
 **\*** denotes corresponding author.
 
-Publications: 
+Papers: 
 ======
 产业匹配需求与工程师供给缺口研究<br>
 黄海波，**谢凯**，秦芳*，欧阳俊<br>
@@ -23,8 +23,8 @@ Publications:
 王奇，**谢凯**，秦芳*，牛耕<br>
 **《中国农村经济》**，2022年第12期
 
-<br>
-
+Newspapers and Magazines: 
+======
 [数字平台助推中小企业信心加速恢复：趋势和机制](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UDrL-YceOCIulxFoR5-cuTv4Vkd-dCYxIyF81ezJlt7M&uniplatform=NZKPT)<br>
 **谢凯**，陈丹，张程，万红杰，郑思迪<br>
 **《中国市场监管研究》**，2023年第3期
