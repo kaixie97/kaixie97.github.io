@@ -75,7 +75,7 @@ _**Tencent Research Institute (腾讯研究院)**_
 
 "Construction and Effectiveness of Counties' Digital Ecology", 2022.<br>
 **Key Contributors**<br>
-[Wuxi County](http://www.cq.chinanews.com.cn/news/2022/0111/21-6086.html) (重庆巫溪县), Fengdu County (重庆丰都县), [Chengkou County](http://www.cqck.gov.cn/zwxx_270/qxdt/202303/t20230306_11710459.html) (重庆城口县), [Pengshui County](https://j.eastday.com/p/162243106477014389) (重庆彭水苗族土家族自治县), [Youyang County](https://www.cqcb.com/yunongpengyouquan/xiaokanggushi/2023-03-07/5192981_pc.html)(重庆酉阳土家族苗族自治县), [Wushan County] (重庆巫山县)
+[Wuxi County](http://www.cq.chinanews.com.cn/news/2022/0111/21-6086.html) (重庆巫溪县), [Fengdu County](https://cloud.tencent.com/developer/news/713386) (重庆丰都县), [Chengkou County](http://www.cqck.gov.cn/zwxx_270/qxdt/202303/t20230306_11710459.html) (重庆城口县), [Pengshui County](https://j.eastday.com/p/162243106477014389) (重庆彭水苗族土家族自治县), [Youyang County](https://www.cqcb.com/yunongpengyouquan/xiaokanggushi/2023-03-07/5192981_pc.html)(重庆酉阳土家族苗族自治县), [Wushan County](https://h5.cqliving.com/info/detail/2622205.html?cid=2622205) (重庆巫山县)
 
 _**China Finance 40 Forum, CF40 (中国金融四十人论坛)**_
 
