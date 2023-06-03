@@ -63,7 +63,7 @@ _**AliResearch (阿里巴巴研究院)**_
 
 "[Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era](https://www.alibabagroup.com/document-1491556231800684544)", 2022.<br>
 **Key Contributors**<br>
-Download ([English](https://kaixie97.github.io/files/Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era.pdf) / [Chinese](https://kaixie97.github.io/files/全球中小微企业在疫情后时代的挑战、应对与转型.pdf))
+Download ([English](https://kaixie97.github.io/files/Challenges of MSMEs in the Post-Pandemic Era.pdf) / [Chinese](https://kaixie97.github.io/files/全球中小微企业在疫情后时代的挑战、应对与转型.pdf))
 
 "A Study of Business Performance Indicators for SMEs on Digital Economy Platforms", 2020.<br>
 **Main Member**
