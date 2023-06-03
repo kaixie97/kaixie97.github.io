@@ -50,7 +50,7 @@ Working Papers:
 _**1. Digital Technology and Economic Growth**_
 
 E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period<br>
-Jiancheng Wang，**Kai Xie**，Zerong Wang*，Fang Qin（SYSU, SWUFE, ZUFE）
+Jiancheng Wang，**Kai Xie**，Zerong Wang*，Fang Qin（SYSU, SWUFE, ZUFE）<br>
 _**Electronic Commerce Research and Applications**_, R&R.
 
 数字金融、创业存续与小微企业成长——来自中国家庭金融调查的证据<br>
