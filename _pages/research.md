@@ -39,7 +39,7 @@ Publications:
 
 Books & Book chapters: 
 ======
-《成渝地区双城经济圈乡村振兴发展研究（成渝地区双城经济圈高质量发展研究丛书）》，第二、三、六、七章<br>
+《成渝地区双城经济圈乡村振兴发展研究》（成渝地区双城经济圈高质量发展研究丛书）<br>
 伍骏骞，秦志龙，**谢凯**<br>
 **西南财经大学出版社**，交付中
 
@@ -49,51 +49,50 @@ Working Papers:
 
 _**1. Digital Technology and Economic Growth**_
 
-数字平台助推中小企业信心加速恢复：趋势和机制<br>
-**谢凯**，陈丹，张程*，万红杰，郑思迪（西南财经大学，阿里研究院）
-
-数字金融、创业存续与小微企业成长——来自中国家庭金融调查的证据<br>
-**谢凯**，秦芳*，路晓蒙（西南财经大学）
-
-E-Commerce Expansion, Specialty Industry and Rural Poverty Reduction<br>
-**Kai Xie**，Fang Qin，Jiancheng Wang*（SWUFE, SYSU）
-
-Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
-**Kai Xie**，Fang Qin，Rongjie Zhang*（SWUFE, SDU）
-
-如何扩大农村消费？来自农村数字基础设施建设的证据<br>
-王奇，**谢凯**，牛耕*（四川大学，西南财经大学）
-
 E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period<br>
 Jiancheng Wang，**Kai Xie**，Zerong Wang*，Fang Qin（SYSU, SWUFE, ZUFE）
+_**Electronic Commerce Research and Applications**_, R&R.
 
-Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-Commerce Sales<br>
-Jun Zhang，**Kai Xie**，Wen Chen*（SWUFE, NAU）
+数字金融、创业存续与小微企业成长——来自中国家庭金融调查的证据<br>
+**谢凯**，秦芳*，路晓蒙（西南财经大学）<br>
+投稿中
 
-短视频消费的崛起：新媒体使用如何促进家庭消费？<br>
-王奇，晋晓姝*，**谢凯**（四川大学，西南财经大学）
+Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
+**Kai Xie**，Fang Qin，Rongjie Zhang*（SWUFE, SDU）<br>
+Submitting
 
-电商发展如何影响消费不平等？来自微观家庭的证据<br>
-郭萌萌，徐子才，余建宇*，**谢凯**（西南财经大学）
+如何扩大农村消费？来自农村数字基础设施建设的证据<br>
+王奇，**谢凯**，牛耕*（四川大学，西南财经大学）<br>
+投稿中
 
-_**2. Human capital's mismatch and improvement**_
+数字家庭的兴起：家庭数字化转型与消费不平等<br>
+王奇，**谢凯**，秦芳*，牛耕（四川大学，西南财经大学）<br>
+投稿中
+
+_**2. Human Capital's Mismatch and Improvement**_
 
 农业人力资本与种植结构调整——来自农业职业经理人的微观证据<br>
-**谢凯**，秦芳，秦志龙*（西南财经大学，北京大学）
-
-乡村治理人才与特色产业发展<br>
-**谢凯**，秦芳，王奇*（西南财经大学，四川大学）
-
-产业匹配需求与工程师供给缺口<br>
-黄海波，**谢凯**，秦芳*，欧阳俊（西南财经大学）
+**谢凯**，秦芳，秦志龙*（西南财经大学）<br>
+**《管理世界》**，外审返修
 
 基础教育资源供给、家庭教育支出与居民生育行为<br>
-梁超，王素素*，**谢凯**（山东大学，西南财经大学）
+梁超，王素素*，**谢凯**（山东大学，西南财经大学）<br>
+**《经济学（季刊）》**，外审返修
 
-_**3. Infrastructure and Public Services in Rural Revitalization**_
+乡村治理、产业振兴与共同富裕<br>
+**谢凯**，秦芳，王奇*（西南财经大学，四川大学）<br>
+投稿中
+
+户籍制度与人力资本错配——来自理工科人才“专业-岗位”匹配的证据<br>
+**谢凯**，王军辉，秦芳*（西南财经大学）<br>
+投稿中
+
+_**3. Welfare Effects of Infrastructure and Public Services**_
 
 交通基础设施改善与家庭旅游消费——来自“高铁县”的经验证据<br>
-**谢凯**，高云露，张荣杰*（西南财经大学，山东大学）
+**谢凯**，张荣杰*，秦志龙，高云露（西南财经大学，山东大学）<br>
+**《数量经济技术经济研究》**，外审返修
 
-社区体育设施与居民体育消费：来自微观家庭调查的证据<br>
-秦志龙，**谢凯**，毛中根*，黄道名（西南财经大学）
+社区基础设施与居民消费升级：来自社区体育场馆的微观证据<br>
+秦志龙，**谢凯**，毛中根*，黄道名（西南财经大学）<br>
+投稿中
