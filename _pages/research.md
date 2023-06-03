@@ -11,12 +11,12 @@ Contains publications, books & book chapters, and working papers (R&R).<br>
 
 Publications: 
 ======
-产业匹配需求与工程师供给缺口研究
-黄海波，**谢凯**，秦芳*，欧阳俊
+产业匹配需求与工程师供给缺口研究<br>
+黄海波，**谢凯**，秦芳*，欧阳俊<br>
 **《经济理论与经济管理》**，2023年第6期
 
-[数字平台助推中小企业信心加速恢复：趋势和机制](
-**谢凯**，陈丹，张程，万红杰，郑思迪
+[数字平台助推中小企业信心加速恢复：趋势和机制](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UDrL-YceOCIulxFoR5-cuTv4Vkd-dCYxIyF81ezJlt7M&uniplatform=NZKPT)<br>
+**谢凯**，陈丹，张程，万红杰，郑思迪<br>
 **《中国市场监管研究》**，2023年第3期
 
 [电子商务发展的创业效应：来自微观家庭数据的证据](http://cmjj.ajcass.org/Magazine/Show?ID=939)<br>
