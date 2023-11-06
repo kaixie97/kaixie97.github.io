@@ -12,7 +12,7 @@ Contains publications, books & book chapters, and working papers (R&R).<br>
 Papers: 
 ======
 [交通基础设施改善与家庭旅游消费——来自“高铁县”的经验证据](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD64IA6cfqkuuZwo38F5tCK_4tgCZN1wj3h3oBdu-TBhb_FBHX9Qp1qxa&uniplatform=NZKPT)<br>
-**谢凯**，秦志龙，张荣杰*，高云露（西南财经大学，山东大学）<br>
+**谢凯**，秦志龙，张荣杰*，高云露<br>
 **《数量经济技术经济研究》**，2023年第12期
 
 [市场可达性与农村家庭消费——来自“快递下乡”工程的证据](http://crecrs-zgncjj.ajcass.org/Magazine/Show/84492)<br>
