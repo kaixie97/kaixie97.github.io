@@ -10,6 +10,7 @@ Contains conference presentations and invited talks.
 
 Conference presentations
 ======
+2023.07，第七届“中国劳动经济学者论坛”年会，浙江大学，杭州<br>
 2023.06，首届“中国式现代化经济发展前沿论坛”，西南财经大学，成都<br>
 2023.06，第九届香樟经济学年会，中国人民大学，北京<br>
 2022.11，Workshop on Regional, Urban and Spatial Economics in China, SWUFE, Chengdu<br>
@@ -42,12 +43,14 @@ Conference presentations
 
 Invited talks
 ======
+2023.10，[西南财经大学研究生学术节系列讲座](https://mp.weixin.qq.com/s/BSOBCCuO6h6-RVDW9fDh_g)，西南财经大学经济与管理研究院<br>
 2021.10，[西南财经大学研究生学术节系列讲座](https://mp.weixin.qq.com/s/67N92GOJDE66SgHXL6iZ4g)，西南财经大学经济与管理研究院<br>
 2022.10，[中国城乡社区治理调查数据库的开发与研究探讨](https://mp.weixin.qq.com/s/DsYK_tjlXENuDOIIjDswyQ)，南京审计大学经济与金融研究院
 
 
 Attended trainings
 ======
+2023.07，北京大学教育经济研究所“教育经济与管理学前沿与中国实践”暑期学校，北京<br>
 2022.08，蚂蚁集团研究院“数字金融青年领军者计划”夏令营，杭州（线上+线下）<br>
 2022.07，香樟经济学术圈“青苗计划”暑期课程，北京（线上）<br>
 2021.07，香樟经济学术圈“西部计划”暑期课程，嘉兴（线上）<br>
