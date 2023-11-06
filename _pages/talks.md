@@ -43,8 +43,8 @@ Conference presentations
 
 Invited talks
 ======
-2023.10，[西南财经大学研究生学术节系列讲座](https://mp.weixin.qq.com/s/BSOBCCuO6h6-RVDW9fDh_g)，西南财经大学经济与管理研究院<br>
-2021.10，[西南财经大学研究生学术节系列讲座](https://mp.weixin.qq.com/s/67N92GOJDE66SgHXL6iZ4g)，西南财经大学经济与管理研究院<br>
+2023.10，[西南财经大学2023年研究生学术节系列讲座](https://mp.weixin.qq.com/s/BSOBCCuO6h6-RVDW9fDh_g)，西南财经大学经济与管理研究院<br>
+2021.10，[西南财经大学2021年研究生学术节系列讲座](https://mp.weixin.qq.com/s/67N92GOJDE66SgHXL6iZ4g)，西南财经大学经济与管理研究院<br>
 2022.10，[中国城乡社区治理调查数据库的开发与研究探讨](https://mp.weixin.qq.com/s/DsYK_tjlXENuDOIIjDswyQ)，南京审计大学经济与金融研究院
 
 
