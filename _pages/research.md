@@ -62,46 +62,27 @@ _**1. Human Capital Allocation**_
 乡村治理人才、产业振兴与共同富裕<br>
 投稿中
 
-
-
-
-
-
 _**2. Digital Technology and Economic Growth**_
 
-
-
-
-E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period<br>
-Jiancheng Wang，**Kai Xie**，Zerong Wang*，Fang Qin（SYSU, SWUFE, ZUFE）<br>
-_**Electronic Commerce Research and Applications**_, R&R.
-
-数字金融、创业存续与小微企业成长——来自中国家庭金融调查的证据<br>
-**谢凯**，秦芳*，路晓蒙（西南财经大学）<br>
-投稿中
-
-Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
-**Kai Xie**，Fang Qin，Rongjie Zhang*（SWUFE, SDU）<br>
-Submitting
-
 如何扩大农村消费？来自农村数字基础设施建设的证据<br>
-王奇，**谢凯**，牛耕*（四川大学，西南财经大学）<br>
 投稿中
 
 数字家庭的兴起：家庭数字化转型与消费不平等<br>
-王奇，**谢凯**，秦芳*，牛耕（四川大学，西南财经大学）<br>
 投稿中
 
+The Impact of Digital Finance on the Survival and Growth of SMEs: Evidence from China<br>
+_**Emerging Markets Finance and Trade**_, R&R.
 
+Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
+_**China Economic Review**_, R&R.
 
+Disappearing Bank Branches: Evidence from China<br>
+_**International Review of Economics & Finance**_, R&R.
 
-基础教育资源供给、家庭教育支出与居民生育行为<br>
-梁超，王素素*，**谢凯**（山东大学，西南财经大学）<br>
-**《经济学（季刊）》**，外审返修
+E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period<br>
+_**Electronic Commerce Research and Applications**_, R&R.
 
-
-
-_**3. Welfare Effects of Infrastructure and Public Services**_
+_**3. Welfare Effects of Public Goods Provision**_
 
 医保制度改革的创业效应：来自微观家庭调查的证据<br>
 投稿中
@@ -111,4 +92,7 @@ _**3. Welfare Effects of Infrastructure and Public Services**_
 
 社区基础设施与居民消费升级：来自体育活动的微观证据<br>
 投稿中
+
+基础教育资源供给、家庭教育支出与居民生育行为<br>
+返修中
 
