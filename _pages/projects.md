@@ -102,3 +102,4 @@ _**Camphor Economic Academic Circle (香樟经济学术圈)**_
 2022-02-21, [【香樟推文2402】城市更名真的能促进经济增长吗？不同模型下的一个比较](https://mp.weixin.qq.com/s/zkYXbIDX2-7AEV-qthNk7Q)<br>
 2022-08-08, [【香樟推文2568】退退退！电子商务会挤出线下零售吗？](https://mp.weixin.qq.com/s/aRdRLTbvBc7r882vbqVrUw)<br>
 2022-11-18, [【香樟推文2668】“薪资保障计划（PPP）”的得与失](https://mp.weixin.qq.com/s/of5MFrIxpiRooWkaLt14SQ)
+2023-08-28, [【香樟推文2937】技能、专业与职业：人力资本投资如何适应产业需求变化？]([https://mp.weixin.qq.com/s/dYt2UJUTvEefg41yvihzXA]
