@@ -27,6 +27,15 @@ Papers:
 黄海波，**谢凯**，秦芳*，欧阳俊<br>
 **《经济理论与经济管理》**，2023年第6期
 
+[The Impact of Digital Finance on the Survival and Growth of SMEs: Evidence from China](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2024.2332392)<br>
+**Xie, K.**, Qin, F., Dong, M., & Lu, X.*<br>
+**Emerging Markets Finance and Trade**, 2024
+
+[Toward a low carbon path: Do E-commerce reduce CO2 emissions? Evidence from China]([https://www.tandfonline.com/doi/abs/10.1080/1540496X.2024.2332392](https://www.sciencedirect.com/science/article/abs/pii/S0301479723025938))<br>
+Zhang, R., Liu, H., **Xie, K.**, Xiao, W., & Bai, C.*<br>
+**Journal of Environmental Management**, 2024
+
+
 Academic Newspapers and Magazines: 
 ======
 [托举制造强国，培养更多“卓越工程师”——我国工程师人才现状研究报告](https://epaper.gmw.cn/gmrb/html/2022-12/08/nw.D110000gmrb_20221208_1-16.htm)<br>
