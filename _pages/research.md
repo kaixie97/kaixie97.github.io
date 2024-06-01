@@ -31,7 +31,7 @@ Papers:
 **Xie, K.**, Qin, F., Dong, M., & Lu, X.*<br>
 _**Emerging Markets Finance and Trade**_, 2024
 
-[Toward a low carbon path: Do E-commerce reduce CO2 emissions? Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S0301479723025938)<br>
+[Toward a Low Carbon Path: Does E-commerce Reduce CO2 Emissions? Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S0301479723025938)<br>
 Zhang, R., Liu, H., **Xie, K.**, Xiao, W., & Bai, C.*<br>
 _**Journal of Environmental Management**_, 2024
 
