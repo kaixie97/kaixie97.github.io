@@ -60,14 +60,23 @@ Working Papers:
 ======
 (slides available upon request)
 
-第一作者. 户籍制度与理工科人力资本错配. **《经济研究》** 返修中<br>
+户籍制度与理工科人力资本错配<br>
+**《经济研究》** 返修中<br>
+第一作者<br>
 
-第一作者. Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-commerce Sales. International Review of Financial Analysis, R&R.
-第一作者. Place-Based Policy and Rural Entrepreneurship: Evidence from China’s E-commerce Expansion, China Economic Review, R&R.
-通讯作者. 从“非粮化”到“谁来种地”：流转价格上涨与农地利用变化. 《中国农村经济》外审中.
-通讯作者. 住房条例、财富预期与家庭旅游消费. 《旅游学刊》外审中.
-通讯作者. 工程师人力资本的创新驱动效应：来自企业管理层特征的证据. 《科研管理》外审中.
-通讯作者. Disappearing Bank Branches: Evidence from China. International Review of Economics & Finance, R&R.
-第二作者. 社区基础设施与居民消费升级：来自体育活动的微观证据. 《上海体育大学学报》返修中.
+第一作者. Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-commerce Sales. International Review of Financial Analysis, R&R.<br>
+
+第一作者. Place-Based Policy and Rural Entrepreneurship: Evidence from China’s E-commerce Expansion, China Economic Review, R&R.<br>
+
+通讯作者. 从“非粮化”到“谁来种地”：流转价格上涨与农地利用变化. 《中国农村经济》外审中.<br>
+
+通讯作者. 住房条例、财富预期与家庭旅游消费. 《旅游学刊》外审中.<br>
+
+通讯作者. 工程师人力资本的创新驱动效应：来自企业管理层特征的证据. 《科研管理》外审中.<br>
+
+通讯作者. Disappearing Bank Branches: Evidence from China. International Review of Economics & Finance, R&R.<br>
+
+第二作者. 社区基础设施与居民消费升级：来自体育活动的微观证据. 《上海体育大学学报》返修中.<br>
+
 第二作者. E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period. Electronic Commerce Research and Applications, R&R.
 
