@@ -29,11 +29,11 @@ Papers:
 
 [The Impact of Digital Finance on the Survival and Growth of SMEs: Evidence from China](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2024.2332392)<br>
 **Xie, K.**, Qin, F., Dong, M., & Lu, X.*<br>
-**Emerging Markets Finance and Trade**, 2024
+_**Emerging Markets Finance and Trade**_, 2024
 
 [Toward a low carbon path: Do E-commerce reduce CO2 emissions? Evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S0301479723025938)<br>
 Zhang, R., Liu, H., **Xie, K.**, Xiao, W., & Bai, C.*<br>
-**Journal of Environmental Management**, 2024
+_**Journal of Environmental Management**_, 2024
 
 
 Academic Newspapers and Magazines: 
@@ -60,48 +60,14 @@ Working Papers:
 ======
 (slides available upon request)
 
-_**1. Human Capital Allocation**_
+第一作者. 户籍制度与理工科人力资本错配. **《经济研究》** 返修中<br>
 
-户籍制度与人力资本错配——来自理工科人才“专业-岗位”匹配的证据<br>
-投稿中
-
-人才振兴、农业转型与农民增收——来自农业职业经理人的微观证据<br>
-投稿中
-
-乡村治理人才、产业振兴与共同富裕<br>
-投稿中
-
-_**2. Digital Technology and Economic Growth**_
-
-如何扩大农村消费？来自农村数字基础设施建设的证据<br>
-投稿中
-
-数字家庭的兴起：家庭数字化转型与消费不平等<br>
-投稿中
-
-The Impact of Digital Finance on the Survival and Growth of SMEs: Evidence from China<br>
-_**Emerging Markets Finance and Trade**_, R&R.
-
-Place-Based Policy and Rural Entrepreneurship: Evidence from China's E-commerce<br>
-_**China Economic Review**_, R&R.
-
-Disappearing Bank Branches: Evidence from China<br>
-_**International Review of Economics & Finance**_, R&R.
-
-E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period<br>
-_**Electronic Commerce Research and Applications**_, R&R.
-
-_**3. Welfare Effects of Public Goods Provision**_
-
-医保制度改革的创业效应：来自微观家庭调查的证据<br>
-投稿中
-
-托幼公共服务、女性就业与家庭收入<br>
-投稿中
-
-社区基础设施与居民消费升级：来自体育活动的微观证据<br>
-投稿中
-
-基础教育资源供给、家庭教育支出与居民生育行为<br>
-返修中
+第一作者. Can Online Sales Reduce the Cost of Debt Financing for Companies? Evidence from Big Data of E-commerce Sales. International Review of Financial Analysis, R&R.
+第一作者. Place-Based Policy and Rural Entrepreneurship: Evidence from China’s E-commerce Expansion, China Economic Review, R&R.
+通讯作者. 从“非粮化”到“谁来种地”：流转价格上涨与农地利用变化. 《中国农村经济》外审中.
+通讯作者. 住房条例、财富预期与家庭旅游消费. 《旅游学刊》外审中.
+通讯作者. 工程师人力资本的创新驱动效应：来自企业管理层特征的证据. 《科研管理》外审中.
+通讯作者. Disappearing Bank Branches: Evidence from China. International Review of Economics & Finance, R&R.
+第二作者. 社区基础设施与居民消费升级：来自体育活动的微观证据. 《上海体育大学学报》返修中.
+第二作者. E-commerce and the Economic Expectations of SMEs in China: Evidence from the COVID-19 Epidemic Period. Electronic Commerce Research and Applications, R&R.
 
