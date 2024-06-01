@@ -38,13 +38,13 @@ _**China Association for Science and Technology (中国科协)**_
 
 Project of National Academy of Innovation Strategy (创新战略研究院项目), **Main Member**<br>
 "Study on the Development of Engineer Talents in China", 2021.<br>
-Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/jgsz/ldjjxhjycjzywyh__.htm), [Fang Qin](https://chfs.swufe.edu.cn/info/1061/1730.htm)
+Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/info/1021/1077.htm), [Fang Qin](https://riem.swufe.edu.cn/info/1231/11501.htm)
 
 _**Department of Education in Sichuan Province of China (四川省教育厅)**_
 
 Project of the Student Information and Career Guidance Center for Higher Education (高校学生信息咨询与就业指导中心项目), **Main Member**<br>
 "Analysis Report on Employment Feedback Enrolment of Higher Education Institutions in Sichuan Province (2020-2022)", 2022.<br>
-Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/jgsz/ldjjxhjycjzywyh__.htm), [Fang Qin](https://chfs.swufe.edu.cn/info/1061/1730.htm)
+Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/info/1021/1077.htm), [Fang Qin](https://riem.swufe.edu.cn/info/1231/11501.htm)
 
 _**Southwestern University of Finance and Economics (西南财经大学)**_
 
