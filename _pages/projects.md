@@ -48,18 +48,21 @@ Project leader: [Jun Ouyang](https://bjyjy.swufe.edu.cn/jgsz/ldjjxhjycjzywyh__.h
 
 _**Southwestern University of Finance and Economics (西南财经大学)**_
 
-PhD Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Project leader**<br>
-"Research on the Supply and Demand Structure and Gap of Engineers in the Context of Manufacturing Power"（Grant No.JBK2307088）, 2023.<br>
+PhD Student Project of the Sichuan Provincial Data Laboratory of Population and Development, SWUFE (西南财经大学四川省人口与发展数据实验室), **Principal Investigator**<br>
+"A Study on the Supply and Demand of STEM Talents in Sichuan Province in the Context of New Productivity Development", 2024.<br>
 
-PhD Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Project leader**<br>
+PhD student Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Principal Investigator**<br>
+"A Study on the Supply and Demand Structure and Gap of Engineers in the Context of Manufacturing Power"（Grant No.JBK2307088）, 2023.<br>
+
+PhD student Project of the Fundamental Research Funds for the Central Universities (中央高校基本科研业务费博士生项目), **Principal Investigator**<br>
 "A study of the Entrepreneurial Effects of E-commerce Development: A Household-based Micro Perspective"（Grant No.JBK2207034）, 2022.<br>
 
 Companies' projects (横向课题)
 ======
 _**AliResearch (阿里巴巴研究院)**_
 
-**Internship Fellow**, SMEs Research Center, 2022.12-2023.06<br>
-**Visiting Researcher**, New Country Research Center, 2022-2025
+**Research Intern**, SME Research Center, 2022.12-2023.06<br>
+**Visiting Researcher**, New Village Research Center, 2022-Present
 
 "[Challenges, Responses, and Transformation of MSMEs in the Post-Pandemic Era](https://www.alibabagroup.com/document-1491556231800684544)", 2022.<br>
 **Key Contributors**<br>
