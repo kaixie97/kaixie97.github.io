@@ -10,7 +10,7 @@ Contains semester courses and short-term courses.
 
 Semester courses (Teaching Assistant)
 ======
-2022秋季学期，商业银行经营与管理研究（硕士），陈文副教授，西南财经大学
+2022秋季学期，商业银行经营与管理研究（硕士），陈文副教授，西南财经大学<br>
 2020 Spring Term, Advanced Econometrics (PhD), Prof. Jingjing Ye, Southwestern University of Finance and Economics<br>
 
 Short-term courses (Teaching Assistant)
