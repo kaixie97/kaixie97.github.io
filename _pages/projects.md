@@ -18,11 +18,11 @@ Project leader: [Jiancheng Wang](https://isbf.sysu.edu.cn/zh-hans/teacher/288)
 
 Young Scientists Fund Project (青年科学基金项目), **Research Assistant**<br>
 "A Study on the Characteristics and Mechanisms of Income and Wealth Mobility of China's Affluent Classes: Estimation and Empirical Testing of a Stochastic Dynamic Model Based on Heterogeneous Households" (Grant No.71903156), 2020.<br>
-Project leader: [Ting Zeng](https://riem.swufe.edu.cn/info/1052/1546.htm)
+Project leader: [Ting Zeng](https://riem.swufe.edu.cn/info/1201/10151.htm)
 
 Special Project（专项项目）, **Research Assistant**<br>
 "Impact and countermeasures of significant public health emergencies on SMEs" (Grant No.72103213), 2020.<br>
-Project leader: [Han Li](https://sib.swufe.edu.cn/info/1016/4141.htm)
+Project leader: [Han Li](https://sib.swufe.edu.cn/info/1101/9804.htm)
 
 _**Ministry of Education in China (教育部)**_
 
@@ -82,7 +82,7 @@ _**Tencent Research Institute (腾讯研究院)**_
 
 _**China Finance 40 Forum, CF40 (中国金融四十人论坛)**_
 
-"[China Smart Finance Development Index Report](http://www.cf40.com/news_detail/12087.html)", 2020.<br>
+"[China Smart Finance Development Index Report](http://www.tcdc.sem.tsinghua.edu.cn/info/1103/1255.htm)", 2020.<br>
 **Key Contributors**
 
 _**21st Century Institute of Finance (21世纪金融研究院)**_
