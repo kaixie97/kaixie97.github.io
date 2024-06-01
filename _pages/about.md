@@ -12,9 +12,9 @@ Welcome! I’m a third-year PhD student in economics at the [Survey and Research
 
 My research interests include Human Capital, Labor Economics, Household Economics, and Development Economics. My current research focuses on three aspects: 
 
-Firstly, examining the consequences of human capital investment, skills mismatch, and enhancements in economic activities, particularly in the context of industrial and educational policies aimed at optimizing the allocation efficiency of STEM (Science, Technology, Engineering, and Mathematics) talents. 
+First, examining the consequences of human capital investment and skills mismatch in economic activities, particularly in the context of industrial and educational policies aimed at optimizing the allocation efficiency of STEM (Science, Technology, Engineering, and Mathematics) talents.
 
-Secondly, investigating the impact of the digital revolution on households and businesses, with an emphasis on the inclusivity of digital technology compared to previous technological advancements.
+Second, investigating the impact of the digital revolution on households and businesses, with an emphasis on the inclusivity of digital technology compared to previous technological advancements.
 
 Lastly, evaluating the efficiency and welfare implications of government public goods provision, specifically the effectiveness of infrastructure development and public services in shaping the economic behavior of households in terms of consumption, employment, and income.
 
