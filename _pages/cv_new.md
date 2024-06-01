@@ -6,6 +6,6 @@ author_profile: true
 published: true
 ---
 
-[Click Here to Download My CV (English)](https://kaixie97.github.io/files/cv_Kai Xie.pdf)
+[Click Here to Download My CV (English)](https://kaixie97.github.io/files/cv_KaiXIE.pdf)
 
 [点击这里下载我的简历（中文）](https://kaixie97.github.io/files/谢凯简历.pdf)
