@@ -106,3 +106,4 @@ _**Camphor Economic Academic Circle (香樟经济学术圈)**_
 2022-08-08, [【香樟推文2568】退退退！电子商务会挤出线下零售吗？](https://mp.weixin.qq.com/s/aRdRLTbvBc7r882vbqVrUw)<br>
 2022-11-18, [【香樟推文2668】“薪资保障计划（PPP）”的得与失](https://mp.weixin.qq.com/s/of5MFrIxpiRooWkaLt14SQ)<br>
 2023-08-28, [【香樟推文2937】技能、专业与职业：人力资本投资如何适应产业需求变化？](https://mp.weixin.qq.com/s/dYt2UJUTvEefg41yvihzXA)
+2024-01-29, [【香樟推文3087】去工业化与城市的未来](https://mp.weixin.qq.com/s/M_sajVZR7Y9D7suvfIQv2A)
